@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, I'm hb</h1>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c895fe17-c933-4749-bb5a-fea4d24a325d" 
        width="160" 
