@@ -28,7 +28,7 @@ I enjoy solving real problems and improving my coding skills through consistent 
 ---
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,linux,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,linux,c,git,figma&theme=light" />
 </p>
 
 ---
