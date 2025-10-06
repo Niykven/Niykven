@@ -39,8 +39,3 @@ I enjoy solving real problems and improving my coding skills through consistent 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niykven&layout=compact&title_color=c89fff&text_color=ddaaff&bg_color=ffffff00&hide_border=true" height="150" />
 </p>
 
-src="https://i.pinimg.com/originals/ba/6e/6f/ba6e6f1f3a2c53f78296a813b6cf7e5a.gif" width="200" alt="coding gif"/>
-</p>
-
-src="https://i.pinimg.com/originals/ba/6e/6f/ba6e6f1f3a2c53f78296a813b6cf7e5a.gif" width="180" alt="coding gif"/>
-</p>
