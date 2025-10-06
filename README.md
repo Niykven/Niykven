@@ -1,8 +1,13 @@
 <h1 align="center">Hey there, I'm hb</h1>
 
 <p align="center">
-  <img src="C:\Users\dell\Pictures\Camera Roll\photo_2025-10-06_11-23-28.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px rgba(200, 150, 255, 0.4);" alt="hb's profile picture">
+  <img src="https://github.com/user-attachments/assets/c895fe17-c933-4749-bb5a-fea4d24a325d" 
+       width="160" 
+       style="border-radius: 50%; box-shadow: 0 0 25px rgba(200, 150, 255, 0.4);" 
+       alt="hb's profile picture">
 </p>
+
+
 
 ---
 
